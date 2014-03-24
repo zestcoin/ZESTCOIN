@@ -1,28 +1,30 @@
-Bitcoin integration/staging tree
+Zestcoin integration/staging tree
 ================================
 
-http://www.bitcoin.org
+http://www.coingen.io
 
 Copyright (c) 2009-2013 Bitcoin Developers
 
-What is Bitcoin?
+What is Zestcoin?
 ----------------
 
-Bitcoin is an experimental new digital currency that enables instant payments to
-anyone, anywhere in the world. Bitcoin uses peer-to-peer technology to operate
+Zestcoin is an experimental new digital currency that enables instant payments to
+anyone, anywhere in the world. Zestcoin uses peer-to-peer technology to operate
 with no central authority: managing transactions and issuing money are carried
-out collectively by the network. Bitcoin is also the name of the open source
+out collectively by the network. Zestcoin is also the name of the open source
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the Bitcoin client software, see http://www.bitcoin.org.
+the Zestcoin client software, see http://www.coingen.io.
 
 License
 -------
 
-Bitcoin is released under the terms of the MIT license. See `COPYING` for more
+Zestcoin is released under the terms of the MIT license. See `COPYING` for more
 information or see http://opensource.org/licenses/MIT.
 
+Zestcoin is based on Bitcoin.
+Its development tracks Bitcoin's, the following information applies to Bitcoin's developemnt.
 Development process
 -------------------
 
