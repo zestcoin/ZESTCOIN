@@ -12,10 +12,7 @@ Zestcoin is an experimental new digital currency that enables instant payments t
 anyone, anywhere in the world. Zestcoin uses peer-to-peer technology to operate
 with no central authority: managing transactions and issuing money are carried
 out collectively by the network. Zestcoin is also the name of the open source
-software which enables the use of this currency.
-
-For more information, as well as an immediately useable, binary version of
-the Zestcoin client software, see http://www.coingen.io.
+software which enables the use of this currency
 
 License
 -------
